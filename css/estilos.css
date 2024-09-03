@@ -1,0 +1,145 @@
+*{
+    margin: 0px;
+}
+.sombrero{
+    background-color:green;
+    width: 100px;
+    height: 150px;
+    position:relative;
+    top: 40px;
+    left: 200px;
+    border-color: black;
+    border: 1px;
+    border-style: solid;
+    border-top-left-radius:10px ;
+    border-top-right-radius:10px ;
+}
+.bsombre{
+    background-color:green;
+    width: 200px;
+    height: 20px;
+    position: relative;
+    top: 30px;
+    left: 150px;
+    border-radius: 20px;
+    border-color: black;
+    border: 1px;
+    border-style: solid;
+}
+.rostro{
+    background-color: blanchedalmond;
+    width: 120px;
+    height: 120px;
+    position: relative;
+    top: 20px;
+    left: 190px;
+    border-radius: 100px;
+    border-color:black ;
+    border: 2px;
+    border-style: solid;
+}
+.ojoI{
+    background-color: aliceblue;
+    width: 20%;
+    height: 20%;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    border-color:black ;
+    border: 2px;
+    border-style: solid;
+    border-radius: 15px;
+}
+.ojoD{
+    background-color: aliceblue;
+    width: 20%;
+    height: 20%;
+    position: absolute;
+    top: 30px;
+    left: 70px;
+    border-color:black ;
+    border: 2px;
+    border-style: solid;
+    border-radius: 15px;
+}
+.boca{
+    background-color:#ff0080;
+    width: 40px;
+    height: 20px;
+    position: absolute;
+    top: 85px;
+    left:40px ;
+    border-radius: 20px;
+    border-color:black ;
+    border: 2px;
+    border-style: solid;
+    
+}
+.len{
+    background-color: red;
+    width: 20px;
+    height: 10px;
+    position:absolute;
+    top: 5px;
+    left:10px ;
+    border-radius: 10px;
+    border-color:black ;
+    border: 2px;
+    border-style: solid;
+}
+.iris{
+    background-color: black;
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    top: 10px;
+    left: 5px;
+    border-radius: 20px;
+
+}
+.cor{
+    background-color: green;
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: 20px;
+    left: 230px;
+    border-top-left-radius: 10px;
+    border-top-right-radius:10px ;
+    border-bottom-left-radius: 200px;
+    border-bottom-right-radius:200px ;
+    
+}
+.corbata{
+    background-color:green;
+    width: 50px;
+    height: 20px;
+    position: relative;
+    top: -15px;
+    left: 200px;
+    border-radius: 100%;
+}
+.corbata2{
+    background-color: green;
+    width: 50px;
+    height: 20px;
+    position: relative;
+    top: -35px;
+    left: 250px;
+    border-radius: 100%;
+}
+.barra{
+    background-color: #fff;
+    width: 99%;
+    height: 10px;
+    position: absolute;
+    top: 120px;
+    left: 0.5px;
+}
+p{
+    position: absolute;
+    top: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+    color:black;
+}
